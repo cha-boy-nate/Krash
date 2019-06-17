@@ -1,5 +1,5 @@
 <h2>Executive Summary</h2>
-<p><p>
+<p>This project emulates the Unix command language Bash by utilizing proper threading technique to run any Bash commands in addition to the developer’s added commands in the krash.c file. Threads are ran independently from one another on the device’s scheduler, allowing for the ability to call commands in an executable program and direct standard output to a user specified file. This is a good starting point for building additional functions for a bash-like-hybrid.<p>
 <h2>Installiation</h2>
 <ol>
 	<h4>For Ubuntu:</h4>
