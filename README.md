@@ -19,7 +19,7 @@
 	</li>
 </ol>
 <h2>Background</h2>
-BUILD-In commands:
+Current built-in commands:
 <ul>
 <li>-help</li>
 	<p>Prints the list of commands.</p>
